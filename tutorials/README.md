@@ -1,6 +1,9 @@
-# sagan-2020
-Repo to host materials for the hands-on component of the 2020 Sagan Summer Workshop
+# Spoiler Alert!
 
-We will be working through the Jupyter notebook tutorials in the "tutorials" directory.
+Here are the real systems that correspond to the mystery "Sagan_system_N" stars and the number of confirmed planets in each system.
 
-See [Hands-on_sessions_Instructions](https://github.com/bjfultn/sagan-2020/blob/master/Hands-on_sessions_Instructions.pdf) to get started on the planet hunting challenge!
+Sagan_System1 - HD20794 - at least 4 planets [Feng et al. 2017](https://ui.adsabs.harvard.edu/abs/2017A%26A...605A.103F/abstract)
+Sagan_System2 - HD10180
+Sagan_System3 - Corot-7
+Sagan_System4 - Alpha Cen B
+Sagan_System5 - GJ876
